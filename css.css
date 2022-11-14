@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-	background: url(https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg);
+	background-image: url(https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg);
 	font-family: "宋体";
 	font-size: 12px;
 	line-height: 25px;
