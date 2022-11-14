@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-	background: url("https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg");
+	background: url(https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg);
 	font-family: "宋体";
 	font-size: 12px;
 	line-height: 25px;
@@ -15,7 +15,7 @@ body {
 	margin-left: auto;
 }
 .main {
-	background-image: url(bj.png);
+	background-image: url(https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg);
 	color: #000;
 }
 a {
