@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-	background:url(sea.png);
+	background-image:url("sea.png");
 	font-family: "宋体";
 	font-size: 12px;
 	line-height: 25px;
